@@ -14,8 +14,10 @@ dataset/
 ├── train/ # Training images (cats and dogs)
 
 ├── test/ # Test images
-cat_dog_svm_model.pkl # Trained SVM model
-scaler.pkl # Trained scaler
+cat_dog_svm_model.pkl
+# Trained SVM model
+scaler.pkl 
+# Trained scaler
 
 ## ⚙️ Features
 - Load and preprocess images (resize, grayscale, flatten)
