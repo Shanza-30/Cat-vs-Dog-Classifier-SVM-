@@ -11,6 +11,7 @@ Make sure to download the dataset from Kaggle and organize the images into appro
 ## 🗂 Project Structure
 dataset/
 ├── train/ # Training images (cats and dogs)
+
 ├── test/ # Test images
 cat_dog_svm_model.pkl # Trained SVM model
 scaler.pkl # Trained scaler
@@ -39,9 +40,6 @@ Make predictions on test images
 📊 Visual Outputs
 
 Random sample images with labels
-
 Class distribution bar chart
-
 PCA visualization of features
-
 Validation accuracy bar chart
